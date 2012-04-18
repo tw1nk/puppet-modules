@@ -73,3 +73,6 @@
 [submodule "resolver"]
 	path = resolver
 	url = https://github.com/example42/puppet-resolver.git
+[submodule "mongodb"]
+	path = mongodb
+	url = git@github.com:tw1nk/puppet-mongodb.git
